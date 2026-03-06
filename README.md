@@ -15,7 +15,6 @@ I'm a high school student interested in artificial intelligence, machine learnin
 
 ## Currently Learning
 
-• PyTorch for deep learning development  
-• OpenCV for computer vision applications  
+• PyTorch for deep learning development    
 • FastAPI for building machine learning APIs  
 • ML systems and model deployment

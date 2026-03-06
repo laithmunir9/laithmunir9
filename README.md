@@ -3,15 +3,19 @@
 I'm a high school student interested in artificial intelligence, machine learning, and building technology that helps people think more critically.
 
 ## Projects
-- **NeutralEye** – AI-powered Chrome extension that detects emotionally loaded language and media bias in online articles.
+
+• NeutralEye – AI-powered Chrome extension that detects emotionally loaded language and media bias in online articles.
 
 ## Interests
-- Artificial Intelligence
-- Machine Learning
-- NLP
-- Technology for social impact
+
+• Artificial Intelligence  
+• Machine Learning  
+• Natural Language Processing  
+• Technology for social impact  
 
 ## Currently Learning
-- Python
-- JavaScript
-- ML systems
+
+• PyTorch for deep learning development  
+• OpenCV for computer vision applications  
+• FastAPI for building machine learning APIs  
+• ML systems and model deployment

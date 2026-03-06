@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Laith
 
-<!--
-**laithmunir9/laithmunir9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a high school student interested in artificial intelligence, machine learning, and building technology that helps people think more critically.
 
-Here are some ideas to get you started:
+## Projects
+- **NeutralEye** – AI-powered browser extension focused on identifying bias in online articles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+- Artificial Intelligence
+- Machine Learning
+- NLP
+- Technology for social impact
+
+## Currently Learning
+- Python
+- JavaScript
+- ML systems

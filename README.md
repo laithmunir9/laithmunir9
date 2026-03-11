@@ -1,21 +1,41 @@
 # Hi, I'm Laith
 
-I'm a high school student interested in artificial intelligence, machine learning, and building technology that helps people think more critically.
+I'm a high school student interested in artificial intelligence, machine learning, and building technology that helps people think more critically about information.
 
-## Projects
+## Current Project
 
-• NeutralEye – AI-powered Chrome extension that detects emotionally loaded language and media bias in online articles.
+**NeutralEye — AI Media Bias Detection Chrome Extension**
 
-## Interests
+NeutralEye is a browser extension that analyzes news articles and highlights potential bias patterns using natural language processing techniques.
+
+The system evaluates indicators such as:
+
+• emotionally loaded language  
+• source imbalance  
+• demographic framing  
+
+The project uses a Chrome extension frontend with a FastAPI backend that handles AI model requests securely.
+
+## Technical Interests
 
 • Artificial Intelligence  
 • Machine Learning  
 • Natural Language Processing  
-• Technology for social impact  
+• AI-assisted software development
 
 ## Currently Learning
 
-• PyTorch for deep learning development  
-• OpenCV for computer vision applications  
-• FastAPI for building machine learning APIs  
-• ML systems and model deployment
+• PyTorch fundamentals  
+• OpenCV basics  
+• backend architecture with FastAPI  
+• improving AI-assisted development workflows
+
+## Tools & Technologies
+
+Python  
+JavaScript  
+HTML / CSS  
+FastAPI  
+Hugging Face Transformers  
+Git  
+Chrome Extensions API
